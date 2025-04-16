@@ -1,3 +1,3 @@
-/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania/cmake-build-debug/CMakeFiles/untitled2.dir
-/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles/untitled2.dir
+/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles/rebuild_cache.dir
