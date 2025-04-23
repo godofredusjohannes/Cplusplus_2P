@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled2.dir/SredniaWTablicy.cpp.o"
-  "CMakeFiles/untitled2.dir/SredniaWTablicy.cpp.o.d"
+  "CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.o"
+  "CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.o.d"
   "untitled2"
   "untitled2.pdb"
 )

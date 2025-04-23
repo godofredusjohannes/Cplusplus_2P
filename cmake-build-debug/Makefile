@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-SredniaWTablicy.o: SredniaWTablicy.cpp.o
-.PHONY : SredniaWTablicy.o
+KolkoIKrzyzyk.o: KolkoIKrzyzyk.cpp.o
+.PHONY : KolkoIKrzyzyk.o
 
 # target to build an object file
-SredniaWTablicy.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/SredniaWTablicy.cpp.o
-.PHONY : SredniaWTablicy.cpp.o
+KolkoIKrzyzyk.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.o
+.PHONY : KolkoIKrzyzyk.cpp.o
 
-SredniaWTablicy.i: SredniaWTablicy.cpp.i
-.PHONY : SredniaWTablicy.i
+KolkoIKrzyzyk.i: KolkoIKrzyzyk.cpp.i
+.PHONY : KolkoIKrzyzyk.i
 
 # target to preprocess a source file
-SredniaWTablicy.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/SredniaWTablicy.cpp.i
-.PHONY : SredniaWTablicy.cpp.i
+KolkoIKrzyzyk.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.i
+.PHONY : KolkoIKrzyzyk.cpp.i
 
-SredniaWTablicy.s: SredniaWTablicy.cpp.s
-.PHONY : SredniaWTablicy.s
+KolkoIKrzyzyk.s: KolkoIKrzyzyk.cpp.s
+.PHONY : KolkoIKrzyzyk.s
 
 # target to generate assembly for a file
-SredniaWTablicy.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/SredniaWTablicy.cpp.s
-.PHONY : SredniaWTablicy.cpp.s
+KolkoIKrzyzyk.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.s
+.PHONY : KolkoIKrzyzyk.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... SredniaWTablicy.o"
-	@echo "... SredniaWTablicy.i"
-	@echo "... SredniaWTablicy.s"
+	@echo "... KolkoIKrzyzyk.o"
+	@echo "... KolkoIKrzyzyk.i"
+	@echo "... KolkoIKrzyzyk.s"
 .PHONY : help
 
 
