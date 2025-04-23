@@ -65,8 +65,30 @@ void movePlayer(int board[][3], char player){
   }
 }
 
+char diagonalWinner(int board[][3]);
+
+char verticalWinner(int board[][3]);
+
+char horizontalWinner(int board[][3]);
+
 bool isEndGame(int board[][3]){
       switch (diagonalWinner(board)){
+        case 'p':
+          cout << "\nWygral gracz\n";
+        return true;
+        case 'c':
+          cout << "\nWygral komputer\n";
+        return true;
+      };
+      switch (verticalWinner(board)){
+        case 'p':
+          cout << "\nWygral gracz\n";
+        return true;
+        case 'c':
+          cout << "\nWygral komputer\n";
+        return true;
+      };
+      switch (horizontalWinner(board)){
         case 'p':
           cout << "\nWygral gracz\n";
         return true;
@@ -79,12 +101,12 @@ bool isEndGame(int board[][3]){
       if(board[i][j] == 0){
         return false;
       }
-      else {
-        return true;
-      }
     }
   }
+  cout << "\nRemis\n";
+  return true;
 }
+
 char diagonalWinner(int board[][3]){
   if(board[0][0] + board[1][1] + board[2][2] == 3 || board[2][0] + board[1][1] + board[0][2] == 3){
       return 'p';
@@ -92,6 +114,27 @@ char diagonalWinner(int board[][3]){
   if (board[0][0] + board[1][1] + board[2][2] == -3 || board[2][0] + board[1][1] + board[0][2] == -3){
     return 'c';
   }
+  return 'n';
+}
+
+char verticalWinner(int board[][3]){
+  if(board[0][0] + board[0][1] + board[0][2] == 3 || board[1][0] + board[1][1] + board[1][2] == 3 || board[2][0] + board[2][1] + board[2][2] == 3){
+      return 'p';
+  }
+  if(board[0][0] + board[0][1] + board[0][2] == -3 || board[1][0] + board[1][1] + board[1][2] == -3 || board[2][0] + board[2][1] + board[2][2] == -3){
+    return 'c';
+  }
+  return 'n';
+}
+
+char horizontalWinner(int board[][3]){
+  if(board[0][0] + board[1][0] + board[2][0] == 3 || board[0][1] + board[1][1] + board[2][1] == 3 || board[0][2] + board[1][2] + board[2][2] == 3){
+    return 'p';
+  }
+  if(board[0][0] + board[1][0] + board[2][0] == -3 || board[0][1] + board[1][1] + board[2][1] == -3 || board[0][2] + board[1][2] + board[2][2] == -3){
+    return 'c';
+  }
+  return 'n';
 }
 
 int main() {
