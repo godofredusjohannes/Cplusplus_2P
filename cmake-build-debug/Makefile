@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-KolkoIKrzyzyk.o: KolkoIKrzyzyk.cpp.o
-.PHONY : KolkoIKrzyzyk.o
+wisielec.o: wisielec.cpp.o
+.PHONY : wisielec.o
 
 # target to build an object file
-KolkoIKrzyzyk.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.o
-.PHONY : KolkoIKrzyzyk.cpp.o
+wisielec.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.o
+.PHONY : wisielec.cpp.o
 
-KolkoIKrzyzyk.i: KolkoIKrzyzyk.cpp.i
-.PHONY : KolkoIKrzyzyk.i
+wisielec.i: wisielec.cpp.i
+.PHONY : wisielec.i
 
 # target to preprocess a source file
-KolkoIKrzyzyk.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.i
-.PHONY : KolkoIKrzyzyk.cpp.i
+wisielec.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.i
+.PHONY : wisielec.cpp.i
 
-KolkoIKrzyzyk.s: KolkoIKrzyzyk.cpp.s
-.PHONY : KolkoIKrzyzyk.s
+wisielec.s: wisielec.cpp.s
+.PHONY : wisielec.s
 
 # target to generate assembly for a file
-KolkoIKrzyzyk.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KolkoIKrzyzyk.cpp.s
-.PHONY : KolkoIKrzyzyk.cpp.s
+wisielec.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.s
+.PHONY : wisielec.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... KolkoIKrzyzyk.o"
-	@echo "... KolkoIKrzyzyk.i"
-	@echo "... KolkoIKrzyzyk.s"
+	@echo "... wisielec.o"
+	@echo "... wisielec.i"
+	@echo "... wisielec.s"
 .PHONY : help
 
 
