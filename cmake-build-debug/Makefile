@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-wisielec.o: wisielec.cpp.o
-.PHONY : wisielec.o
+sortowanie_przez_wstawianie.o: sortowanie_przez_wstawianie.cpp.o
+.PHONY : sortowanie_przez_wstawianie.o
 
 # target to build an object file
-wisielec.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.o
-.PHONY : wisielec.cpp.o
+sortowanie_przez_wstawianie.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.o
+.PHONY : sortowanie_przez_wstawianie.cpp.o
 
-wisielec.i: wisielec.cpp.i
-.PHONY : wisielec.i
+sortowanie_przez_wstawianie.i: sortowanie_przez_wstawianie.cpp.i
+.PHONY : sortowanie_przez_wstawianie.i
 
 # target to preprocess a source file
-wisielec.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.i
-.PHONY : wisielec.cpp.i
+sortowanie_przez_wstawianie.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.i
+.PHONY : sortowanie_przez_wstawianie.cpp.i
 
-wisielec.s: wisielec.cpp.s
-.PHONY : wisielec.s
+sortowanie_przez_wstawianie.s: sortowanie_przez_wstawianie.cpp.s
+.PHONY : sortowanie_przez_wstawianie.s
 
 # target to generate assembly for a file
-wisielec.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/wisielec.cpp.s
-.PHONY : wisielec.cpp.s
+sortowanie_przez_wstawianie.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.s
+.PHONY : sortowanie_przez_wstawianie.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... wisielec.o"
-	@echo "... wisielec.i"
-	@echo "... wisielec.s"
+	@echo "... sortowanie_przez_wstawianie.o"
+	@echo "... sortowanie_przez_wstawianie.i"
+	@echo "... sortowanie_przez_wstawianie.s"
 .PHONY : help
 
 
