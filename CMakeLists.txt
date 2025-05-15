@@ -3,4 +3,4 @@ project(untitled2)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(untitled2 sortowanie_przez_wstawianie.cpp)
+add_executable(untitled2 sortowanie_wyborem.cpp)

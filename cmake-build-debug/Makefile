@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-sortowanie_przez_wstawianie.o: sortowanie_przez_wstawianie.cpp.o
-.PHONY : sortowanie_przez_wstawianie.o
+sortowanie_wyborem.o: sortowanie_wyborem.cpp.o
+.PHONY : sortowanie_wyborem.o
 
 # target to build an object file
-sortowanie_przez_wstawianie.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.o
-.PHONY : sortowanie_przez_wstawianie.cpp.o
+sortowanie_wyborem.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o
+.PHONY : sortowanie_wyborem.cpp.o
 
-sortowanie_przez_wstawianie.i: sortowanie_przez_wstawianie.cpp.i
-.PHONY : sortowanie_przez_wstawianie.i
+sortowanie_wyborem.i: sortowanie_wyborem.cpp.i
+.PHONY : sortowanie_wyborem.i
 
 # target to preprocess a source file
-sortowanie_przez_wstawianie.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.i
-.PHONY : sortowanie_przez_wstawianie.cpp.i
+sortowanie_wyborem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.i
+.PHONY : sortowanie_wyborem.cpp.i
 
-sortowanie_przez_wstawianie.s: sortowanie_przez_wstawianie.cpp.s
-.PHONY : sortowanie_przez_wstawianie.s
+sortowanie_wyborem.s: sortowanie_wyborem.cpp.s
+.PHONY : sortowanie_wyborem.s
 
 # target to generate assembly for a file
-sortowanie_przez_wstawianie.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_przez_wstawianie.cpp.s
-.PHONY : sortowanie_przez_wstawianie.cpp.s
+sortowanie_wyborem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.s
+.PHONY : sortowanie_wyborem.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... sortowanie_przez_wstawianie.o"
-	@echo "... sortowanie_przez_wstawianie.i"
-	@echo "... sortowanie_przez_wstawianie.s"
+	@echo "... sortowanie_wyborem.o"
+	@echo "... sortowanie_wyborem.i"
+	@echo "... sortowanie_wyborem.s"
 .PHONY : help
 
 
