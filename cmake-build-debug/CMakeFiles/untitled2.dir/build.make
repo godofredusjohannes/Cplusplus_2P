@@ -69,28 +69,28 @@ include CMakeFiles/untitled2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled2.dir/flags.make
 
-CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o: CMakeFiles/untitled2.dir/flags.make
-CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o: /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/sortowanie_wyborem.cpp
-CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o -MF CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o.d -o CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o -c /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/sortowanie_wyborem.cpp
+CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o: /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/zadanie_z_pseudokodu.cpp
+CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o -MF CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o.d -o CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o -c /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/zadanie_z_pseudokodu.cpp
 
-CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/sortowanie_wyborem.cpp > CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.i
+CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/zadanie_z_pseudokodu.cpp > CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.i
 
-CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/sortowanie_wyborem.cpp -o CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.s
+CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/zadanie_z_pseudokodu.cpp -o CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.s
 
 # Object files for target untitled2
 untitled2_OBJECTS = \
-"CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o"
+"CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o"
 
 # External object files for target untitled2
 untitled2_EXTERNAL_OBJECTS =
 
-untitled2: CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o
+untitled2: CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o
 untitled2: CMakeFiles/untitled2.dir/build.make
 untitled2: CMakeFiles/untitled2.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled2"

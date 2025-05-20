@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o"
-  "CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o.d"
+  "CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o"
+  "CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o.d"
   "untitled2"
   "untitled2.pdb"
 )

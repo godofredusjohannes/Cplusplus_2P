@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-sortowanie_wyborem.o: sortowanie_wyborem.cpp.o
-.PHONY : sortowanie_wyborem.o
+zadanie_z_pseudokodu.o: zadanie_z_pseudokodu.cpp.o
+.PHONY : zadanie_z_pseudokodu.o
 
 # target to build an object file
-sortowanie_wyborem.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.o
-.PHONY : sortowanie_wyborem.cpp.o
+zadanie_z_pseudokodu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o
+.PHONY : zadanie_z_pseudokodu.cpp.o
 
-sortowanie_wyborem.i: sortowanie_wyborem.cpp.i
-.PHONY : sortowanie_wyborem.i
+zadanie_z_pseudokodu.i: zadanie_z_pseudokodu.cpp.i
+.PHONY : zadanie_z_pseudokodu.i
 
 # target to preprocess a source file
-sortowanie_wyborem.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.i
-.PHONY : sortowanie_wyborem.cpp.i
+zadanie_z_pseudokodu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.i
+.PHONY : zadanie_z_pseudokodu.cpp.i
 
-sortowanie_wyborem.s: sortowanie_wyborem.cpp.s
-.PHONY : sortowanie_wyborem.s
+zadanie_z_pseudokodu.s: zadanie_z_pseudokodu.cpp.s
+.PHONY : zadanie_z_pseudokodu.s
 
 # target to generate assembly for a file
-sortowanie_wyborem.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/sortowanie_wyborem.cpp.s
-.PHONY : sortowanie_wyborem.cpp.s
+zadanie_z_pseudokodu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.s
+.PHONY : zadanie_z_pseudokodu.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... sortowanie_wyborem.o"
-	@echo "... sortowanie_wyborem.i"
-	@echo "... sortowanie_wyborem.s"
+	@echo "... zadanie_z_pseudokodu.o"
+	@echo "... zadanie_z_pseudokodu.i"
+	@echo "... zadanie_z_pseudokodu.s"
 .PHONY : help
 
 
