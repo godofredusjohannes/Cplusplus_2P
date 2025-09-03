@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/zadanie_z_pseudokodu.cpp" "CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o" "gcc" "CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o.d"
+  "/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/FunkcjaRekurencyjna.cpp" "CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.o" "gcc" "CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

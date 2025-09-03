@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-zadanie_z_pseudokodu.o: zadanie_z_pseudokodu.cpp.o
-.PHONY : zadanie_z_pseudokodu.o
+FunkcjaRekurencyjna.o: FunkcjaRekurencyjna.cpp.o
+.PHONY : FunkcjaRekurencyjna.o
 
 # target to build an object file
-zadanie_z_pseudokodu.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.o
-.PHONY : zadanie_z_pseudokodu.cpp.o
+FunkcjaRekurencyjna.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.o
+.PHONY : FunkcjaRekurencyjna.cpp.o
 
-zadanie_z_pseudokodu.i: zadanie_z_pseudokodu.cpp.i
-.PHONY : zadanie_z_pseudokodu.i
+FunkcjaRekurencyjna.i: FunkcjaRekurencyjna.cpp.i
+.PHONY : FunkcjaRekurencyjna.i
 
 # target to preprocess a source file
-zadanie_z_pseudokodu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.i
-.PHONY : zadanie_z_pseudokodu.cpp.i
+FunkcjaRekurencyjna.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.i
+.PHONY : FunkcjaRekurencyjna.cpp.i
 
-zadanie_z_pseudokodu.s: zadanie_z_pseudokodu.cpp.s
-.PHONY : zadanie_z_pseudokodu.s
+FunkcjaRekurencyjna.s: FunkcjaRekurencyjna.cpp.s
+.PHONY : FunkcjaRekurencyjna.s
 
 # target to generate assembly for a file
-zadanie_z_pseudokodu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/zadanie_z_pseudokodu.cpp.s
-.PHONY : zadanie_z_pseudokodu.cpp.s
+FunkcjaRekurencyjna.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.s
+.PHONY : FunkcjaRekurencyjna.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... zadanie_z_pseudokodu.o"
-	@echo "... zadanie_z_pseudokodu.i"
-	@echo "... zadanie_z_pseudokodu.s"
+	@echo "... FunkcjaRekurencyjna.o"
+	@echo "... FunkcjaRekurencyjna.i"
+	@echo "... FunkcjaRekurencyjna.s"
 .PHONY : help
 
 
