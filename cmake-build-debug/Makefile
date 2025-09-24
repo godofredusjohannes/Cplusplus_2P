@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-FunkcjaRekurencyjna.o: FunkcjaRekurencyjna.cpp.o
-.PHONY : FunkcjaRekurencyjna.o
+KalkulatorZFunkcjamiInline.o: KalkulatorZFunkcjamiInline.cpp.o
+.PHONY : KalkulatorZFunkcjamiInline.o
 
 # target to build an object file
-FunkcjaRekurencyjna.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.o
-.PHONY : FunkcjaRekurencyjna.cpp.o
+KalkulatorZFunkcjamiInline.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o
+.PHONY : KalkulatorZFunkcjamiInline.cpp.o
 
-FunkcjaRekurencyjna.i: FunkcjaRekurencyjna.cpp.i
-.PHONY : FunkcjaRekurencyjna.i
+KalkulatorZFunkcjamiInline.i: KalkulatorZFunkcjamiInline.cpp.i
+.PHONY : KalkulatorZFunkcjamiInline.i
 
 # target to preprocess a source file
-FunkcjaRekurencyjna.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.i
-.PHONY : FunkcjaRekurencyjna.cpp.i
+KalkulatorZFunkcjamiInline.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.i
+.PHONY : KalkulatorZFunkcjamiInline.cpp.i
 
-FunkcjaRekurencyjna.s: FunkcjaRekurencyjna.cpp.s
-.PHONY : FunkcjaRekurencyjna.s
+KalkulatorZFunkcjamiInline.s: KalkulatorZFunkcjamiInline.cpp.s
+.PHONY : KalkulatorZFunkcjamiInline.s
 
 # target to generate assembly for a file
-FunkcjaRekurencyjna.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/FunkcjaRekurencyjna.cpp.s
-.PHONY : FunkcjaRekurencyjna.cpp.s
+KalkulatorZFunkcjamiInline.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.s
+.PHONY : KalkulatorZFunkcjamiInline.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... FunkcjaRekurencyjna.o"
-	@echo "... FunkcjaRekurencyjna.i"
-	@echo "... FunkcjaRekurencyjna.s"
+	@echo "... KalkulatorZFunkcjamiInline.o"
+	@echo "... KalkulatorZFunkcjamiInline.i"
+	@echo "... KalkulatorZFunkcjamiInline.s"
 .PHONY : help
 
 
