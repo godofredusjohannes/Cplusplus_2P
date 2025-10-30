@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o"
-  "CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o.d"
+  "CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o"
+  "CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o.d"
+  "CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o"
+  "CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o.d"
   "untitled2"
   "untitled2.pdb"
 )

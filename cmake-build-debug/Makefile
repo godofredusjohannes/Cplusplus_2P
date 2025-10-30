@@ -129,29 +129,53 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-KalkulatorZFunkcjamiInline.o: KalkulatorZFunkcjamiInline.cpp.o
-.PHONY : KalkulatorZFunkcjamiInline.o
+TabliceDynamiczne5.o: TabliceDynamiczne5.cpp.o
+.PHONY : TabliceDynamiczne5.o
 
 # target to build an object file
-KalkulatorZFunkcjamiInline.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o
-.PHONY : KalkulatorZFunkcjamiInline.cpp.o
+TabliceDynamiczne5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o
+.PHONY : TabliceDynamiczne5.cpp.o
 
-KalkulatorZFunkcjamiInline.i: KalkulatorZFunkcjamiInline.cpp.i
-.PHONY : KalkulatorZFunkcjamiInline.i
+TabliceDynamiczne5.i: TabliceDynamiczne5.cpp.i
+.PHONY : TabliceDynamiczne5.i
 
 # target to preprocess a source file
-KalkulatorZFunkcjamiInline.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.i
-.PHONY : KalkulatorZFunkcjamiInline.cpp.i
+TabliceDynamiczne5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.i
+.PHONY : TabliceDynamiczne5.cpp.i
 
-KalkulatorZFunkcjamiInline.s: KalkulatorZFunkcjamiInline.cpp.s
-.PHONY : KalkulatorZFunkcjamiInline.s
+TabliceDynamiczne5.s: TabliceDynamiczne5.cpp.s
+.PHONY : TabliceDynamiczne5.s
 
 # target to generate assembly for a file
-KalkulatorZFunkcjamiInline.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.s
-.PHONY : KalkulatorZFunkcjamiInline.cpp.s
+TabliceDynamiczne5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.s
+.PHONY : TabliceDynamiczne5.cpp.s
+
+ZliczaniePrzezSortowanie.o: ZliczaniePrzezSortowanie.cpp.o
+.PHONY : ZliczaniePrzezSortowanie.o
+
+# target to build an object file
+ZliczaniePrzezSortowanie.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o
+.PHONY : ZliczaniePrzezSortowanie.cpp.o
+
+ZliczaniePrzezSortowanie.i: ZliczaniePrzezSortowanie.cpp.i
+.PHONY : ZliczaniePrzezSortowanie.i
+
+# target to preprocess a source file
+ZliczaniePrzezSortowanie.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.i
+.PHONY : ZliczaniePrzezSortowanie.cpp.i
+
+ZliczaniePrzezSortowanie.s: ZliczaniePrzezSortowanie.cpp.s
+.PHONY : ZliczaniePrzezSortowanie.s
+
+# target to generate assembly for a file
+ZliczaniePrzezSortowanie.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.s
+.PHONY : ZliczaniePrzezSortowanie.cpp.s
 
 # Help Target
 help:
@@ -162,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... KalkulatorZFunkcjamiInline.o"
-	@echo "... KalkulatorZFunkcjamiInline.i"
-	@echo "... KalkulatorZFunkcjamiInline.s"
+	@echo "... TabliceDynamiczne5.o"
+	@echo "... TabliceDynamiczne5.i"
+	@echo "... TabliceDynamiczne5.s"
+	@echo "... ZliczaniePrzezSortowanie.o"
+	@echo "... ZliczaniePrzezSortowanie.i"
+	@echo "... ZliczaniePrzezSortowanie.s"
 .PHONY : help
 
 

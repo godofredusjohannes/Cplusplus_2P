@@ -69,31 +69,47 @@ include CMakeFiles/untitled2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled2.dir/flags.make
 
-CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o: CMakeFiles/untitled2.dir/flags.make
-CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o: /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/KalkulatorZFunkcjamiInline.cpp
-CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o -MF CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o.d -o CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o -c /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/KalkulatorZFunkcjamiInline.cpp
+CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o: /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/ZliczaniePrzezSortowanie.cpp
+CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o -MF CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o.d -o CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o -c /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/ZliczaniePrzezSortowanie.cpp
 
-CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/KalkulatorZFunkcjamiInline.cpp > CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.i
+CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/ZliczaniePrzezSortowanie.cpp > CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.i
 
-CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/KalkulatorZFunkcjamiInline.cpp -o CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.s
+CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/ZliczaniePrzezSortowanie.cpp -o CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.s
+
+CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o: /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/TabliceDynamiczne5.cpp
+CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o -MF CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o.d -o CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o -c /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/TabliceDynamiczne5.cpp
+
+CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/TabliceDynamiczne5.cpp > CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.i
+
+CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/TabliceDynamiczne5.cpp -o CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.s
 
 # Object files for target untitled2
 untitled2_OBJECTS = \
-"CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o"
+"CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o" \
+"CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o"
 
 # External object files for target untitled2
 untitled2_EXTERNAL_OBJECTS =
 
-untitled2: CMakeFiles/untitled2.dir/KalkulatorZFunkcjamiInline.cpp.o
+untitled2: CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o
+untitled2: CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o
 untitled2: CMakeFiles/untitled2.dir/build.make
 untitled2: CMakeFiles/untitled2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
