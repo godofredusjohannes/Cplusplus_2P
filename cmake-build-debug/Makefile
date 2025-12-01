@@ -129,30 +129,6 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-TabliceDynamiczne5.o: TabliceDynamiczne5.cpp.o
-.PHONY : TabliceDynamiczne5.o
-
-# target to build an object file
-TabliceDynamiczne5.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.o
-.PHONY : TabliceDynamiczne5.cpp.o
-
-TabliceDynamiczne5.i: TabliceDynamiczne5.cpp.i
-.PHONY : TabliceDynamiczne5.i
-
-# target to preprocess a source file
-TabliceDynamiczne5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.i
-.PHONY : TabliceDynamiczne5.cpp.i
-
-TabliceDynamiczne5.s: TabliceDynamiczne5.cpp.s
-.PHONY : TabliceDynamiczne5.s
-
-# target to generate assembly for a file
-TabliceDynamiczne5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/TabliceDynamiczne5.cpp.s
-.PHONY : TabliceDynamiczne5.cpp.s
-
 ZliczaniePrzezSortowanie.o: ZliczaniePrzezSortowanie.cpp.o
 .PHONY : ZliczaniePrzezSortowanie.o
 
@@ -186,9 +162,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... TabliceDynamiczne5.o"
-	@echo "... TabliceDynamiczne5.i"
-	@echo "... TabliceDynamiczne5.s"
 	@echo "... ZliczaniePrzezSortowanie.o"
 	@echo "... ZliczaniePrzezSortowanie.i"
 	@echo "... ZliczaniePrzezSortowanie.s"
