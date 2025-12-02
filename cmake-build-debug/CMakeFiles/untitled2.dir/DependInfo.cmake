@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/ZliczaniePrzezSortowanie.cpp" "CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o" "gcc" "CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o.d"
+  "/Users/serweryn.poczynek/CLionProjects/PodstawyProgramowania2P/KlasaUczen3.cpp" "CMakeFiles/untitled2.dir/KlasaUczen3.cpp.o" "gcc" "CMakeFiles/untitled2.dir/KlasaUczen3.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

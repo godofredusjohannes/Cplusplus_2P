@@ -129,29 +129,29 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-ZliczaniePrzezSortowanie.o: ZliczaniePrzezSortowanie.cpp.o
-.PHONY : ZliczaniePrzezSortowanie.o
+KlasaUczen3.o: KlasaUczen3.cpp.o
+.PHONY : KlasaUczen3.o
 
 # target to build an object file
-ZliczaniePrzezSortowanie.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.o
-.PHONY : ZliczaniePrzezSortowanie.cpp.o
+KlasaUczen3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaUczen3.cpp.o
+.PHONY : KlasaUczen3.cpp.o
 
-ZliczaniePrzezSortowanie.i: ZliczaniePrzezSortowanie.cpp.i
-.PHONY : ZliczaniePrzezSortowanie.i
+KlasaUczen3.i: KlasaUczen3.cpp.i
+.PHONY : KlasaUczen3.i
 
 # target to preprocess a source file
-ZliczaniePrzezSortowanie.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.i
-.PHONY : ZliczaniePrzezSortowanie.cpp.i
+KlasaUczen3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaUczen3.cpp.i
+.PHONY : KlasaUczen3.cpp.i
 
-ZliczaniePrzezSortowanie.s: ZliczaniePrzezSortowanie.cpp.s
-.PHONY : ZliczaniePrzezSortowanie.s
+KlasaUczen3.s: KlasaUczen3.cpp.s
+.PHONY : KlasaUczen3.s
 
 # target to generate assembly for a file
-ZliczaniePrzezSortowanie.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ZliczaniePrzezSortowanie.cpp.s
-.PHONY : ZliczaniePrzezSortowanie.cpp.s
+KlasaUczen3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaUczen3.cpp.s
+.PHONY : KlasaUczen3.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... ZliczaniePrzezSortowanie.o"
-	@echo "... ZliczaniePrzezSortowanie.i"
-	@echo "... ZliczaniePrzezSortowanie.s"
+	@echo "... KlasaUczen3.o"
+	@echo "... KlasaUczen3.i"
+	@echo "... KlasaUczen3.s"
 .PHONY : help
 
 
