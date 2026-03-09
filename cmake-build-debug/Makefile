@@ -129,29 +129,53 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
-KlasaStudentKlon.o: KlasaStudentKlon.cpp.o
-.PHONY : KlasaStudentKlon.o
+Klasa_Czlowiek.o: Klasa_Czlowiek.cpp.o
+.PHONY : Klasa_Czlowiek.o
 
 # target to build an object file
-KlasaStudentKlon.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o
-.PHONY : KlasaStudentKlon.cpp.o
+Klasa_Czlowiek.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o
+.PHONY : Klasa_Czlowiek.cpp.o
 
-KlasaStudentKlon.i: KlasaStudentKlon.cpp.i
-.PHONY : KlasaStudentKlon.i
+Klasa_Czlowiek.i: Klasa_Czlowiek.cpp.i
+.PHONY : Klasa_Czlowiek.i
 
 # target to preprocess a source file
-KlasaStudentKlon.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.i
-.PHONY : KlasaStudentKlon.cpp.i
+Klasa_Czlowiek.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.i
+.PHONY : Klasa_Czlowiek.cpp.i
 
-KlasaStudentKlon.s: KlasaStudentKlon.cpp.s
-.PHONY : KlasaStudentKlon.s
+Klasa_Czlowiek.s: Klasa_Czlowiek.cpp.s
+.PHONY : Klasa_Czlowiek.s
 
 # target to generate assembly for a file
-KlasaStudentKlon.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.s
-.PHONY : KlasaStudentKlon.cpp.s
+Klasa_Czlowiek.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.s
+.PHONY : Klasa_Czlowiek.cpp.s
+
+Programowanie_Obiektowe.o: Programowanie_Obiektowe.cpp.o
+.PHONY : Programowanie_Obiektowe.o
+
+# target to build an object file
+Programowanie_Obiektowe.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o
+.PHONY : Programowanie_Obiektowe.cpp.o
+
+Programowanie_Obiektowe.i: Programowanie_Obiektowe.cpp.i
+.PHONY : Programowanie_Obiektowe.i
+
+# target to preprocess a source file
+Programowanie_Obiektowe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.i
+.PHONY : Programowanie_Obiektowe.cpp.i
+
+Programowanie_Obiektowe.s: Programowanie_Obiektowe.cpp.s
+.PHONY : Programowanie_Obiektowe.s
+
+# target to generate assembly for a file
+Programowanie_Obiektowe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.s
+.PHONY : Programowanie_Obiektowe.cpp.s
 
 # Help Target
 help:
@@ -162,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
-	@echo "... KlasaStudentKlon.o"
-	@echo "... KlasaStudentKlon.i"
-	@echo "... KlasaStudentKlon.s"
+	@echo "... Klasa_Czlowiek.o"
+	@echo "... Klasa_Czlowiek.i"
+	@echo "... Klasa_Czlowiek.s"
+	@echo "... Programowanie_Obiektowe.o"
+	@echo "... Programowanie_Obiektowe.i"
+	@echo "... Programowanie_Obiektowe.s"
 .PHONY : help
 
 

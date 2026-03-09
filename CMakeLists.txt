@@ -3,4 +3,5 @@ project(untitled2)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(untitled2 KlasaStudentKlon.cpp)
+add_executable(untitled2 "Programowanie Obiektowe.cpp"
+        "Klasa Czlowiek.cpp")

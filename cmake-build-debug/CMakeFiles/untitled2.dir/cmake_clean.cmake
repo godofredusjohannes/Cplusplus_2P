@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o"
-  "CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o.d"
+  "CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o"
+  "CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o.d"
+  "CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o"
+  "CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o.d"
   "untitled2"
   "untitled2.pdb"
 )

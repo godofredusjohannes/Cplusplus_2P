@@ -72,31 +72,47 @@ include CMakeFiles/untitled2.dir/flags.make
 CMakeFiles/untitled2.dir/codegen:
 .PHONY : CMakeFiles/untitled2.dir/codegen
 
-CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o: CMakeFiles/untitled2.dir/flags.make
-CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o: /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/KlasaStudentKlon.cpp
-CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o -MF CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o.d -o CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o -c /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/KlasaStudentKlon.cpp
+CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o: /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Programowanie\ Obiektowe.cpp
+CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o -MF CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o.d -o CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o -c "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Programowanie Obiektowe.cpp"
 
-CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/KlasaStudentKlon.cpp > CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.i
+CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Programowanie Obiektowe.cpp" > CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.i
 
-CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/KlasaStudentKlon.cpp -o CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.s
+CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Programowanie Obiektowe.cpp" -o CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.s
+
+CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o: /Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Klasa\ Czlowiek.cpp
+CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o: CMakeFiles/untitled2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o -MF CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o.d -o CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o -c "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Klasa Czlowiek.cpp"
+
+CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Klasa Czlowiek.cpp" > CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.i
+
+CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/Klasa Czlowiek.cpp" -o CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.s
 
 # Object files for target untitled2
 untitled2_OBJECTS = \
-"CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o"
+"CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o" \
+"CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o"
 
 # External object files for target untitled2
 untitled2_EXTERNAL_OBJECTS =
 
-untitled2: CMakeFiles/untitled2.dir/KlasaStudentKlon.cpp.o
+untitled2: CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o
+untitled2: CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o
 untitled2: CMakeFiles/untitled2.dir/build.make
 untitled2: CMakeFiles/untitled2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/serweryn.poczynek/CLionProjects/Cplusplus_2P/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
